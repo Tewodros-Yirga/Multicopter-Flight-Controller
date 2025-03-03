@@ -2,7 +2,7 @@
 //Always remove the propellers and stay away from the motors unless you are 100% certain of what you are doing.
 
 #include <Wire.h>               //Include the Wire.h library so we can communicate with the gyro
-#include <EEPROM.h>             //Include the EEPROM.h library so we can store information onto the EEPROM
+#include <EEPROM.h>             //Includethe EEPROM.h library so we can store information onto the EEPROM
 
 //Declaring Global Variables
 byte last_channel_1, last_channel_2, last_channel_3, last_channel_4;

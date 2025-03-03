@@ -2,7 +2,7 @@
 //Safety note
 //Always remove the propellers and stay away from the motors unless you are 100% certain of what you are doing.
 
-//The program will start in calibration mode.
+//The program will start incalibration mode.
 //Send the following characters / numbers via the serial monitor to change the mode
 //r = print receiver signals.
 //a = print quadcopter angles.
